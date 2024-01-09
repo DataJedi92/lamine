@@ -1,1 +1,302 @@
+CGU lamine
 
+    Introduction et acceptation des conditions :
+        Commencez par une introduction expliquant que l'utilisation de votre application est soumise à ces conditions. Indiquez clairement que l'utilisateur doit accepter les CGU pour utiliser le service.
+
+		Bienvenue sur Lamine !
+
+		Avant d'utiliser notre application, veuillez lire attentivement les présentes Conditions Générales d'Utilisation ("CGU"). Ces CGU régissent votre utilisation de notre application mobile et des services connexes fournis par XXXXXX, ci-après dénommée "nous", "notre" ou "nos".
+
+		En accédant à notre application, vous acceptez de vous conformer aux présentes CGU. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre application.
+
+		Nous nous réservons le droit de modifier, de mettre à jour ou de remplacer tout ou partie de ces CGU à tout moment. Il est de votre responsabilité de vérifier régulièrement cette page pour les changements. Votre utilisation continue de l'application après la publication de toute modification constitue une acceptation de ces modifications.
+
+		1. Déclaration d'identité : En utilisant notre application, vous déclarez être une personne réelle physique( c'est-à-dire un être humain de chair et de sang !).
+		2. Consentement à la Politique de Confidentialité : En acceptant ces CGU, vous consentez également à notre Politique de Confidentialité, qui régit la collecte, l'utilisation et la divulgation de vos informations personnelles.
+		3. Utilisation Autorisée : Vous acceptez d'utiliser notre application uniquement à des fins légales et conformément à ces CGU. Vous ne pouvez pas utiliser notre application d'une manière qui pourrait causer un préjudice à d'autres personnes ou enfreindre les lois applicables.
+
+		Nous nous engageons à fournir une expérience utilisateur positive et respectueuse. Si vous avez des questions sur ces CGU, n'hésitez pas à nous contacter à XXXXXX.
+
+		Merci de faire partie de la communauté Lamine !
+
+    Définitions :
+   		"Application" : fait référence à Lamine, y compris toutes les fonctionnalités et services connexes.
+
+		"Nous", "Notre", "Nos" : désigne XXXXXX, l'entité fournissant l'application.
+
+		"Utilisateur" : se réfère à toute personne qui accède à ou utilise l'application et accepte les présentes CGU.
+
+		"Contenu" : englobe tout texte, graphique, image, musique, logiciel, audio, vidéo, informations ou autres matériaux accessibles via notre application.
+
+		"CGU" : fait référence à ces Conditions Générales d'Utilisation.
+
+		"Politique de Confidentialité" : désigne notre politique régissant la collecte, l'utilisation et la divulgation des informations personnelles des utilisateurs, accessible à [lien vers la Politique de Confidentialité].
+
+		"Partenaire" : peut se référer à des tierces parties avec lesquelles nous collaborons pour fournir certains services ou fonctionnalités au sein de l'application.
+
+		"Compte" : désigne le compte individuel créé par un utilisateur pour accéder à certaines parties ou fonctionnalités de l'application.
+
+		"Contenu Utilisateur" : représente tout contenu, y compris mais sans s'y limiter, les textes, images, commentaires, ou autres informations que les utilisateurs soumettent, publient ou affichent sur ou via l'application.
+
+		"Services" : englobe toutes les fonctionnalités, services, contenus et applications accessibles au sein de notre application.
+
+		"Membre" : peut se référer à un utilisateur qui a créé un compte au sein de l'application.
+
+		"Force Majeure" : se réfère à des événements échappant à notre contrôle raisonnable, y compris mais sans s'y limiter, les catastrophes naturelles, les actes de guerre, les grèves, les pannes de réseau, et autres événements similaires.
+		
+    Description du service :
+        
+		L'application Lamine offre un service novateur conçu spécialement pour les professionnels du bâtiment, facilitant la création et la gestion de devis de manière efficace et flexible.
+
+		Fonctionnalités Principales :
+
+			Génération Rapide de Devis : Lamine permet aux utilisateurs travaillant dans le bâtiment de créer des devis en un temps record. Cette fonctionnalité est rendue possible soit par une création manuelle détaillée, offrant un contrôle total sur les éléments inclus, soit par le biais d'une saisie vocale intuitive grâce à la reconnaissance vocale.
+
+			Personnalisation Avancée : Une fois le devis généré, l'utilisateur a la liberté totale de le personnaliser selon ses besoins spécifiques. Que ce soit pour ajuster les coûts, modifier les descriptions des services, ou ajouter des éléments supplémentaires, Lamine offre une flexibilité totale pour répondre aux exigences uniques de chaque projet.
+
+			Partage Facile : Une fois le devis finalisé, l'utilisateur peut le partager rapidement avec les parties concernées en utilisant les moyens de communication intégrés au téléphone mobile. Que ce soit par e-mail, message texte, ou toute autre plateforme de communication, Lamine facilite la diffusion transparente des informations essentielles du devis.
+
+		Simplicité d'Utilisation :
+
+		Lamine a été conçu en mettant l'accent sur une interface conviviale, garantissant une expérience utilisateur intuitive. Les fonctionnalités puissantes sont accessibles en quelques clics, permettant aux utilisateurs de maximiser leur productivité sans compromettre la facilité d'utilisation.
+
+		En choisissant Lamine, les professionnels du bâtiment peuvent optimiser leur processus de création de devis, gagner du temps précieux, et collaborer de manière efficace avec leurs clients et partenaires.
+
+		Découvrez une nouvelle manière de gérer vos devis avec Lamine - votre outil essentiel pour simplifier la gestion des devis de vos projets de construction.
+
+    Droits et responsabilités des utilisateurs :
+        En tant qu'utilisateur de l'application Lamine, vous bénéficiez de droits et de fonctionnalités spécifiques tout en acceptant certaines responsabilités afin de garantir une utilisation optimale de nos services.
+
+		Droits des Utilisateurs :
+
+			Droit à la Génération de Devis : En utilisant l'application, vous avez le droit exclusif de générer des devis rapidement et efficacement, que ce soit par création manuelle détaillée ou par reconnaissance vocale.
+
+			Droit à la Personnalisation : Vous avez la liberté totale de personnaliser les devis créés selon vos besoins spécifiques. Lamine vous offre la flexibilité nécessaire pour ajuster les coûts, modifier les descriptions des services et inclure des éléments supplémentaires à votre convenance.
+
+			Droit au Partage Facile : Une fois votre devis finalisé, vous avez le droit de le partager aisément avec les parties concernées, que ce soit vos clients, partenaires ou collègues, via les moyens de communication intégrés à votre téléphone mobile.
+
+		Responsabilités des Utilisateurs :
+
+			Respect des Conditions d'Utilisation : En utilisant l'application, vous vous engagez à respecter les présentes Conditions Générales d'Utilisation. Tout usage contraire à ces conditions peut entraîner des mesures appropriées, y compris la résiliation de votre compte.
+
+			Exactitude des Informations : Vous êtes responsable de l'exactitude des informations fournies lors de la création des devis. Lamine ne peut être tenue responsable des conséquences découlant de l'utilisation d'informations inexactes ou trompeuses.
+
+			Utilisation Légitime : Vous vous engagez à utiliser l'application de manière légale et conforme aux lois et réglementations en vigueur. Toute utilisation abusive, frauduleuse ou illégale de l'application est strictement interdite.
+
+			Confidentialité et Sécurité : Vous êtes responsable de la confidentialité de votre compte et des informations sensibles associées. Veillez à prendre les mesures nécessaires pour maintenir la sécurité de votre compte et à nous informer immédiatement en cas d'accès non autorisé.
+
+		En acceptant ces droits et responsabilités, vous contribuez à créer une communauté d'utilisateurs respectueuse et collaborative au sein de l'application Lamine.
+
+    Propriété intellectuelle :
+		Propriété de l'Application :
+			L'application Lamine est la propriété exclusive de la société XXXXXX. Tous les droits, titres et intérêts relatifs à l'application, y compris son code source, son design et ses fonctionnalités, sont détenus par XXXXXX.
+
+		Contenu des Utilisateurs :
+			Tout contenu créé et téléchargé par les utilisateurs à travers l'application, y compris les devis générés, reste la propriété de ces utilisateurs. Nous n'assumons aucun droit de propriété sur le contenu généré par les utilisateurs.
+
+		Droits des Utilisateurs sur leur Contenu :
+			Les utilisateurs ont le droit exclusif de modifier, supprimer et contrôler l'accès à leur propre contenu généré au sein de l'application. XXXXXX ne revendique aucun droit de modification, reproduction ou distribution sur le contenu des utilisateurs.
+
+		Utilisation Anonyme des Données :
+			Nous nous réservons le droit d'utiliser de manière anonyme les données agrégées générées par les utilisateurs dans le cadre de l'amélioration continue de l'application. Cela peut inclure des données statistiques ou des informations non identifiables utilisées à des fins d'analyse, de recherche, et d'amélioration de l'expérience utilisateur, tout en respectant la confidentialité des données individuelles.
+
+		Licence d'Utilisation :
+			En utilisant l'application, les Utilisateurs accordent à TEAM PURPLE une licence limitée, non exclusive, mondiale, libre de redevances et cessible pour utiliser, reproduire, distribuer et afficher le contenu généré dans le seul but de fournir et d'améliorer les services de l'application.
+
+		Respect de la Propriété Intellectuelle :
+			Les utilisateurs s'engagent à respecter les droits de propriété intellectuelle de TEAM PURPLE ainsi que les droits des autres utilisateurs. Toute utilisation non autorisée du contenu de l'application est strictement interdite.
+
+		En acceptant ces conditions, les utilisateurs reconnaissent et acceptent les droits et responsabilités liés à la propriété intellectuelle dans le cadre de leur utilisation de l'application Lamine.
+    
+	Conditions d'utilisation :
+
+		En utilisant l'application Lamine, vous acceptez les conditions énoncées ci-dessous. Veuillez lire attentivement ces Conditions Générales d'Utilisation ("CGU") avant d'accéder ou d'utiliser notre application.
+
+		1. Acceptation des Conditions :
+
+			En accédant à l'application Lamine, vous acceptez d'être lié par ces CGU. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre application.
+
+		2. Modification des Conditions :
+
+			Nous nous réservons le droit de modifier, mettre à jour ou remplacer ces CGU à tout moment. Il est de votre responsabilité de consulter régulièrement cette page pour les changements. Votre utilisation continue de l'application après la publication de modifications constitue une acceptation de ces modifications.
+
+		3. Utilisation Autorisée :
+
+			Vous vous engagez à utiliser l'application conformément à toutes les lois et réglementations applicables et de manière à ne pas enfreindre les droits de tiers.
+
+		4. Création de Compte :
+
+			Pour accéder à certaines fonctionnalités de l'application, vous pouvez être amené à créer un compte. Vous êtes responsable de maintenir la confidentialité de votre compte et des informations associées.
+
+		5. Génération de Devis :
+
+			L'application Lamine permet la génération de devis par les utilisateurs. Vous êtes seul responsable de l'exactitude des informations incluses dans les devis que vous créez.
+
+		6. Contenu Utilisateur :
+
+			Tout contenu que vous téléchargez, créez ou partagez via l'application reste votre propriété. Vous avez le droit de modifier ou supprimer ce contenu à tout moment.
+
+		7. Utilisation Anonyme des Données :
+
+			En acceptant ces CGU, vous consentez à ce que TEAM PURPLE utilise de manière anonyme les données agrégées à des fins d'amélioration de l'application, tout en respectant la confidentialité des données individuelles.
+
+		8. Respect de la Propriété Intellectuelle :
+
+			Vous vous engagez à respecter les droits de propriété intellectuelle de XXXXXX et des autres utilisateurs. Aucune partie de l'application ou de son contenu ne peut être reproduite sans autorisation.
+
+		9. Résiliation :
+
+			Nous nous réservons le droit de résilier ou suspendre votre compte, ou de limiter votre accès à l'application, en cas de violation de ces CGU.
+
+		10. Contact :
+		- Pour toute question concernant ces CGU, veuillez nous contacter à XXXXXX.
+
+		En acceptant ces conditions, vous reconnaissez avoir lu, compris et accepté les présentes CGU, engageant ainsi une relation contractuelle avec XXXXXX.
+
+
+
+    Politique de confidentialité :
+        
+		Dernière mise à jour : 17/02/2024
+
+		Bienvenue dans la Politique de Confidentialité de l'application Lamine, éditée par XXXXXX. Nous attachons une grande importance à la protection de vos données personnelles et nous nous engageons à respecter votre vie privée. Cette Politique de Confidentialité vous informe sur la manière dont nous collectons, utilisons, partageons et protégeons vos informations lors de votre utilisation de l'application.
+
+		1. Informations Collectées :
+
+			Lors de votre utilisation de l'application, nous pouvons collecter des informations telles que votre nom, adresse e-mail, informations de compte toute autre information que vous choisissez de partager avec nous.
+
+		2. Utilisation des Informations :
+
+			Nous utilisons les informations collectées pour fournir, maintenir, protéger et améliorer notre application. Cela inclut la génération de statistiques agrégées, l'analyse de tendances d'utilisation, et la personnalisation de l'expérience utilisateur.
+
+		3. Partage des Informations :
+
+			Nous ne partageons pas vos informations personnelles avec des tiers, sauf dans les cas autorisés par la loi ou avec votre consentement explicite. Nous pouvons partager des données anonymisées à des fins d'analyse et d'amélioration de nos services.
+
+		4. Sécurité des Données :
+
+			Nous mettons en œuvre des mesures de sécurité pour protéger vos informations contre tout accès non autorisé, toute altération, toute divulgation ou toute destruction. Cependant, aucune méthode de transmission sur Internet ni de stockage électronique n'est totalement sécurisée.
+
+		5. Cookies et Technologies Similaires :
+
+			Nous pouvons utiliser des cookies et d'autres technologies similaires pour améliorer votre expérience utilisateur, personnaliser le contenu et analyser les performances de l'application.
+
+		6. Liens vers des Sites Tiers :
+
+			Notre application peut contenir des liens vers des sites tiers. Nous ne sommes pas responsables des pratiques de confidentialité de ces sites et vous encourageons à consulter leurs politiques de confidentialité.
+
+		7. Modification de la Politique de Confidentialité :
+
+			Nous nous réservons le droit de mettre à jour cette Politique de Confidentialité à tout moment. Toute modification sera publiée sur cette page avec une date de mise à jour.
+
+		8. Consentement :
+
+			En utilisant l'application Lamine, vous consentez à la collecte et à l'utilisation de vos informations conformément à cette Politique de Confidentialité.
+
+		9. Contact :
+
+			Pour toute question concernant notre Politique de Confidentialité, veuillez nous contacter à XXXXEMAIL.
+
+		Merci de faire confiance à l'application Lamine et à XXXXEMAIL pour la protection de vos informations personnelles.
+
+
+    Garanties et responsabilités :
+        Bien que nous nous efforcions de fournir une expérience utilisateur exceptionnelle, veuillez noter que l'utilisation de l'application Lamine est soumise aux termes et conditions suivants :
+
+		1. Garanties Limitées :
+
+			L'application est fournie "telle quelle" et "selon disponibilité". Nous ne faisons aucune déclaration ni garantie quant à l'exactitude, la fiabilité ou l'exhaustivité du contenu généré par les utilisateurs ou des informations disponibles dans l'application.
+
+		2. Utilisation à Vos Propres Risques :
+
+			L'utilisation de l'application est à vos propres risques. Nous ne pouvons garantir que l'application répondra à vos besoins spécifiques, sera ininterrompue, sécurisée ou exempte d'erreurs.
+
+		3. Responsabilités de l'Utilisateur :
+
+			Vous êtes responsable de l'exactitude des informations que vous fournissez et de l'utilisation que vous faites de l'application. Nous déclinons toute responsabilité pour les conséquences résultant de l'utilisation du contenu généré par les utilisateurs ou de toute décision basée sur les informations disponibles dans l'application.
+
+		4. Limitation de Responsabilité :
+
+			Dans la mesure maximale autorisée par la loi applicable, ni XXXXXX ni ses dirigeants, employés, partenaires ou affiliés ne seront responsables envers vous ou tout tiers pour tout dommage direct, indirect, accidentel, spécial, consécutif ou punitif découlant de votre utilisation de l'application.
+
+		5. Indemnisation :
+
+			Vous acceptez d'indemniser et de dégager de toute responsabilité XXXXXX, ses dirigeants, employés, partenaires et affiliés de toute réclamation ou demande, y compris les honoraires d'avocat raisonnables, découlant de votre utilisation de l'application ou de votre violation des présentes conditions.
+
+		6. Modifications de l'Application :
+
+			Nous nous réservons le droit de modifier, suspendre ou interrompre l'application à tout moment, avec ou sans préavis. Nous ne serons pas responsables envers vous ou tout tiers pour toute modification, suspension ou interruption de l'application.
+
+		7. Force Majeure :
+
+			Ni vous ni XXXXXX ne serez tenu responsable envers l'autre pour tout retard ou défaut d'exécution résultant de circonstances échappant à notre contrôle raisonnable, y compris, mais sans s'y limiter, des actes de Dieu (ou Allah ou YHWH ou Akhénaton ou tout autre personnalité assimilable à une divinité historique) , des catastrophes naturelles, des actes de guerre, des émeutes, des grèves, des pannes de réseau ou des pannes de service Internet.
+
+		En utilisant l'application Lamine, vous acceptez ces garanties limitées et renoncez à toute réclamation contre XXXXXX découlant de votre utilisation de l'application.
+
+    Modifications des CGU :
+        Nous nous réservons le droit de mettre à jour et de modifier périodiquement les présentes Conditions Générales d'Utilisation (CGU) afin de refléter les évolutions de notre application, des lois en vigueur et des commentaires des utilisateurs. Les modifications prendront effet immédiatement après leur publication sur cette page.
+
+		Notification des Modifications :
+
+			En cas de modifications importantes, nous vous informerons par le biais de notifications au sein de l'application, par e-mail ou tout autre moyen que nous jugerons approprié. Il est de votre responsabilité de vérifier régulièrement cette page pour prendre connaissance des éventuelles modifications.
+
+		Acceptation des Modifications :
+
+			En continuant d'utiliser l'application après la publication de modifications, vous attestez avoir lu, compris et accepté les nouvelles conditions. Si vous n'acceptez pas les modifications, veuillez cesser d'utiliser l'application.
+
+		Révision de la Date de Dernière Mise à Jour :
+
+			La date de la dernière mise à jour en haut de cette page indiquera la date de la dernière modification des CGU. Nous vous encourageons à vérifier cette date chaque fois que vous consultez les CGU pour vous assurer de leur actualité.
+
+		Référence aux Modifications :
+
+			Toute modification des CGU sera clairement indiquée sur cette page, accompagnée d'un résumé des changements. Nous nous efforcerons de rendre ces modifications compréhensibles et transparentes.
+
+		Consentement Continu :
+
+			En utilisant l'application après toute modification des CGU, vous consentez aux conditions mises à jour. Si vous n'acceptez pas les nouvelles conditions, veuillez cesser d'utiliser l'application.
+
+		Nous nous engageons à vous informer de manière transparente et à garantir que vous comprenez les modifications apportées aux CGU. Nous apprécions votre compréhension et votre coopération dans le cadre de l'évolution constante de notre application.
+
+    Résiliation :
+        Vous avez le droit de résilier votre utilisation de l'application Lamine à tout moment, et nous nous réservons également le droit de résilier ou de suspendre votre compte et votre accès à l'application en conformité avec les présentes Conditions Générales d'Utilisation (CGU). Veuillez lire attentivement les dispositions suivantes :
+
+		1. Résiliation par l'Utilisateur :
+
+			Vous pouvez résilier votre compte en nous contactant directement ou en utilisant les fonctionnalités de résiliation disponibles dans l'application. Une fois votre compte résilié, vous perdrez l'accès à certaines fonctionnalités et contenus de l'application et toutes les données créée par l'utilisateur seront supprimées.
+
+		2. Résiliation par TEAM PURPLE :
+
+			Nous nous réservons le droit de résilier ou de suspendre votre compte, ou de limiter votre accès à l'application, à notre entière discrétion, sans préavis ni responsabilité envers vous, dans les cas suivants :
+				Violation des présentes CGU.
+				Utilisation de l'application d'une manière qui pourrait entraîner un risque pour la sécurité ou la confidentialité d'autres utilisateurs.
+				Activités frauduleuses ou illégales associées à votre compte.
+
+		3. Effets de la Résiliation :
+
+			En cas de résiliation, tous les droits qui vous ont été accordés conformément aux présentes CGU seront résiliés. TEAM PURPLE n'aura aucune obligation de conserver ou de vous fournir des informations que vous avez soumises ou que d'autres utilisateurs ont soumises au sein de l'application.
+
+		4. Conservation des Dispositions :
+
+			Les dispositions des présentes CGU qui, par leur nature, devraient survivre à la résiliation, resteront en vigueur après la résiliation, y compris, sans s'y limiter, les dispositions relatives à la propriété intellectuelle, aux garanties et responsabilités, et à la limitation de responsabilité.
+
+		5. Droit Discrétionnaire :
+
+			Nous nous réservons le droit discrétionnaire de mettre fin à tout compte d'utilisateur et de refuser toute utilisation future de l'application pour quelque raison que ce soit.
+
+		La résiliation de votre compte est votre seul recours si vous n'êtes pas satisfait des services fournis par l'application. Vous comprenez et acceptez que XXXXXX ne sera pas responsable envers vous ou tout tiers pour toute résiliation de votre accès à l'application.
+
+    Litiges et loi applicable :
+        En cas de litige entre vous et TEAM PURPLE découlant de l'utilisation de l'application Lamine, nous encourageons une résolution amiable chaque fois que possible. 
+		
+		Cependant, nous nous réservons la possibilité d'avoir recours à des moyens légaux pour arbitrer et résoudre des situations de litige.
+
+    Coordonnées de contact :
+        Si vous avez des questions, des préoccupations ou des commentaires concernant ces Conditions Générales d'Utilisation (CGU) ou l'application Lamine, veuillez nous contacter à l'adresse suivante :
+
+		[Adresse Postale de l'Entreprise]
+		[Adresse E-mail de Contact]
+
+		Nous nous efforçons de répondre rapidement à toutes les communications que nous recevons. Veuillez inclure des détails spécifiques et toute information pertinente pour faciliter le processus de résolution.
+
+		Nous vous remercions de votre confiance et de votre compréhension.
